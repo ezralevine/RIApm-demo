@@ -1,0 +1,86 @@
+window,ticker,name,theme,avgWeight,assetReturn,contribution
+1M,NVDA,NVIDIA,AI compute,0.09782,0.28719,0.025082
+1M,AVGO,Broadcom,AI compute,0.06181,-0.06026,-0.003609
+1M,TSM,Taiwan Semiconductor,AI compute,0.10391,-0.0465,-0.005448
+1M,ASML,ASML Holding,AI compute,0.05429,-0.04107,-0.002124
+1M,VRT,Vertiv,Cooling & power,0.06772,0.02746,0.001442
+1M,ETN,Eaton,Cooling & power,0.04999,-0.0569,-0.002924
+1M,GEV,GE Vernova,Cooling & power,0.04918,-0.10876,-0.005884
+1M,FCX,Freeport-McMoRan,Copper,0.0299,-0.04628,-0.001558
+1M,SCCO,Southern Copper,Copper,0.02007,-0.09809,-0.001823
+1M,EQIX,Equinix,Data centers,0.05299,0.03446,0.001929
+1M,DLR,Digital Realty,Data centers,0.03064,0.01169,0.000236
+1M,MSFT,Microsoft,Hyperscalers,0.06987,0.0097,0.000808
+1M,GOOGL,Alphabet,Hyperscalers,0.05711,0.04266,0.00281
+1M,VTI,Vanguard Total Stock Market ETF,Core,0.08868,-0.02095,-0.002087
+1M,VXUS,Vanguard Total Intl Stock ETF,Core,0.0387,-0.03387,-0.00139
+1M,BND,Vanguard Total Bond Market ETF,Ballast,0.05982,-0.0073,-0.000497
+1M,SGOV,iShares 0-3M Treasury ETF,Ballast,0.06752,0.00129,8.2e-05
+3M,NVDA,NVIDIA,AI compute,0.09782,0.37119,0.038985
+3M,AVGO,Broadcom,AI compute,0.06181,0.44518,0.024581
+3M,TSM,Taiwan Semiconductor,AI compute,0.10391,0.38304,0.035146
+3M,ASML,ASML Holding,AI compute,0.05429,0.12091,0.005892
+3M,VRT,Vertiv,Cooling & power,0.06772,0.17298,0.01083
+3M,ETN,Eaton,Cooling & power,0.04999,0.02478,0.000484
+3M,GEV,GE Vernova,Cooling & power,0.04918,-0.12094,-0.008238
+3M,FCX,Freeport-McMoRan,Copper,0.0299,-0.15601,-0.005159
+3M,SCCO,Southern Copper,Copper,0.02007,0.08487,0.001944
+3M,EQIX,Equinix,Data centers,0.05299,0.09963,0.005563
+3M,DLR,Digital Realty,Data centers,0.03064,0.06425,0.002296
+3M,MSFT,Microsoft,Hyperscalers,0.06987,0.20634,0.013775
+3M,GOOGL,Alphabet,Hyperscalers,0.05711,0.19408,0.011047
+3M,VTI,Vanguard Total Stock Market ETF,Core,0.08868,0.1057,0.008203
+3M,VXUS,Vanguard Total Intl Stock ETF,Core,0.0387,0.06765,0.002198
+3M,BND,Vanguard Total Bond Market ETF,Ballast,0.05982,-0.01854,-0.001566
+3M,SGOV,iShares 0-3M Treasury ETF,Ballast,0.06752,-0.00127,-6.7e-05
+YTD,NVDA,NVIDIA,AI compute,0.09782,0.93404,0.083717
+YTD,AVGO,Broadcom,AI compute,0.06181,0.56854,0.030127
+YTD,TSM,Taiwan Semiconductor,AI compute,0.10391,0.25984,0.026442
+YTD,ASML,ASML Holding,AI compute,0.05429,-0.11198,-0.006956
+YTD,VRT,Vertiv,Cooling & power,0.06772,0.05582,0.000752
+YTD,ETN,Eaton,Cooling & power,0.04999,-0.00283,-0.001285
+YTD,GEV,GE Vernova,Cooling & power,0.04918,0.19526,0.005845
+YTD,FCX,Freeport-McMoRan,Copper,0.0299,0.2442,0.005417
+YTD,SCCO,Southern Copper,Copper,0.02007,0.45209,0.007152
+YTD,EQIX,Equinix,Data centers,0.05299,0.12898,0.006721
+YTD,DLR,Digital Realty,Data centers,0.03064,-0.16898,-0.004978
+YTD,MSFT,Microsoft,Hyperscalers,0.06987,0.25417,0.018709
+YTD,GOOGL,Alphabet,Hyperscalers,0.05711,0.58556,0.031717
+YTD,VTI,Vanguard Total Stock Market ETF,Core,0.08868,0.20876,0.015307
+YTD,VXUS,Vanguard Total Intl Stock ETF,Core,0.0387,0.19114,0.006239
+YTD,BND,Vanguard Total Bond Market ETF,Ballast,0.05982,-0.00555,-0.000531
+YTD,SGOV,iShares 0-3M Treasury ETF,Ballast,0.06752,0.00431,0.000273
+1Y,NVDA,NVIDIA,AI compute,0.09782,1.30489,0.112436
+1Y,AVGO,Broadcom,AI compute,0.06181,0.75881,0.040199
+1Y,TSM,Taiwan Semiconductor,AI compute,0.10391,0.63018,0.058094
+1Y,ASML,ASML Holding,AI compute,0.05429,-0.11097,-0.007457
+1Y,VRT,Vertiv,Cooling & power,0.06772,0.17967,0.008774
+1Y,ETN,Eaton,Cooling & power,0.04999,0.05341,0.001048
+1Y,GEV,GE Vernova,Cooling & power,0.04918,0.66704,0.022907
+1Y,FCX,Freeport-McMoRan,Copper,0.0299,0.22664,0.00572
+1Y,SCCO,Southern Copper,Copper,0.02007,0.58282,0.009753
+1Y,EQIX,Equinix,Data centers,0.05299,0.15746,0.008262
+1Y,DLR,Digital Realty,Data centers,0.03064,-0.10611,-0.003112
+1Y,MSFT,Microsoft,Hyperscalers,0.06987,0.44513,0.030962
+1Y,GOOGL,Alphabet,Hyperscalers,0.05711,0.59394,0.034721
+1Y,VTI,Vanguard Total Stock Market ETF,Core,0.08868,0.27172,0.021112
+1Y,VXUS,Vanguard Total Intl Stock ETF,Core,0.0387,0.25002,0.008567
+1Y,BND,Vanguard Total Bond Market ETF,Ballast,0.05982,-0.0335,-0.002371
+1Y,SGOV,iShares 0-3M Treasury ETF,Ballast,0.06752,-0.00024,-4.9e-05
+Since start,NVDA,NVIDIA,AI compute,0.09782,1.60572,0.145313
+Since start,AVGO,Broadcom,AI compute,0.06181,1.23791,0.065337
+Since start,TSM,Taiwan Semiconductor,AI compute,0.10391,1.37311,0.106514
+Since start,ASML,ASML Holding,AI compute,0.05429,0.43618,0.021963
+Since start,VRT,Vertiv,Cooling & power,0.06772,0.95189,0.050424
+Since start,ETN,Eaton,Cooling & power,0.04999,0.25497,0.010934
+Since start,GEV,GE Vernova,Cooling & power,0.04918,0.82546,0.030496
+Since start,FCX,Freeport-McMoRan,Copper,0.0299,0.07566,0.00162
+Since start,SCCO,Southern Copper,Copper,0.02007,0.28525,0.006371
+Since start,EQIX,Equinix,Data centers,0.05299,0.05922,0.004498
+Since start,DLR,Digital Realty,Data centers,0.03064,0.09157,0.002753
+Since start,MSFT,Microsoft,Hyperscalers,0.06987,0.3388,0.02715
+Since start,GOOGL,Alphabet,Hyperscalers,0.05711,0.68924,0.04108
+Since start,VTI,Vanguard Total Stock Market ETF,Core,0.08868,0.32742,0.024789
+Since start,VXUS,Vanguard Total Intl Stock ETF,Core,0.0387,0.20931,0.006814
+Since start,BND,Vanguard Total Bond Market ETF,Ballast,0.05982,0.01214,-1.1e-05
+Since start,SGOV,iShares 0-3M Treasury ETF,Ballast,0.06752,0.00275,0.000193

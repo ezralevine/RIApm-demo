@@ -1,0 +1,167 @@
+[
+ {
+  "id": "M1",
+  "date": "2026-10-23",
+  "scope": "Market",
+  "ticker": "",
+  "category": "Markets",
+  "summary": "Stocks ended a choppy week lower on Friday: the S&P 500 slipped 0.5% to 7,623.68, the Nasdaq 0.2% and the Dow 1.2%, with worries about the cost of financing AI spending lingering after Thursday's sharp Nasdaq drop.",
+  "source": "AP via Honolulu Star-Advertiser",
+  "url": "https://www.staradvertiser.com/2026/10/23/breaking-news/wall-street-closes-lower-to-end-rocky-week/",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "M2",
+  "date": "2026-10-23",
+  "scope": "Market",
+  "ticker": "",
+  "category": "Energy & oil",
+  "summary": "Energy shares closed at a record as Brent crude reached its highest level since late April after Houthi attacks in Saudi Arabia; higher prices are keeping consumer sentiment near a record low.",
+  "source": "AP via Honolulu Star-Advertiser",
+  "url": "https://www.staradvertiser.com/2026/10/23/breaking-news/wall-street-closes-lower-to-end-rocky-week/",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "M3",
+  "date": "2026-10-26",
+  "scope": "Market",
+  "ticker": "",
+  "category": "Rates & macro",
+  "summary": "A heavy week ahead: the Federal Reserve's rate decision and the first estimate of third-quarter GDP both land on Wednesday, Oct 28, hours before Microsoft and Alphabet report.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "M4",
+  "date": "2026-10-15",
+  "scope": "Market",
+  "ticker": "",
+  "category": "Technology",
+  "summary": "A global tech sell-off driven by worries over how AI build-outs are being funded pulled down Nvidia, AMD and Dell along with Asian chip and memory makers.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "M5",
+  "date": "2026-10-08",
+  "scope": "Market",
+  "ticker": "",
+  "category": "Technology",
+  "summary": "AI-linked stocks including Nvidia, Oracle and CoreWeave fell after a report on OpenAI's revenue raised questions about returns on AI spending.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H1",
+  "date": "2026-10-24",
+  "scope": "Holding",
+  "ticker": "NVDA",
+  "category": "Company",
+  "summary": "Nvidia's investments in and financing of AI cloud providers are drawing scrutiny after so-called neocloud stocks fell sharply.",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H2",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "MSFT",
+  "category": "Earnings ahead",
+  "summary": "Reports Wednesday, Oct 28 after the close; consensus EPS is $4.71 against $4.13 a year ago. Microsoft guided to Azure growth of about 45% in constant currency.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H3",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "GOOGL",
+  "category": "Earnings ahead",
+  "summary": "Reports Wednesday, Oct 28 after the close; consensus EPS is $2.94. Google Cloud revenue grew 82% last quarter, and capital spending will be in focus.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H4",
+  "date": "2026-10-15",
+  "scope": "Holding",
+  "ticker": "TSM",
+  "category": "Earnings",
+  "summary": "Third-quarter revenue rose 41% in dollars to about $46.7 billion and net income 69%, with a 66.4% gross margin; fourth-quarter revenue is guided to $52.3\u201354.3 billion.",
+  "source": "TSMC",
+  "url": "https://pr.tsmc.com/english/news/3346",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H5",
+  "date": "2026-10-14",
+  "scope": "Holding",
+  "ticker": "ASML",
+  "category": "Earnings",
+  "summary": "Record third-quarter sales of \u20ac11.7 billion and net income of \u20ac5.0 billion; fourth-quarter sales guided to \u20ac14.2\u201315.2 billion, and ASML says planned 2027\u201328 supply will not fully meet demand.",
+  "source": "ASML via Yahoo Finance",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/asml-reports-11-7-billion-050000954.html",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H6",
+  "date": "2026-10-02",
+  "scope": "Holding",
+  "ticker": "FCX",
+  "category": "Company",
+  "summary": "Third-quarter copper output was about 830 million pounds; the Grasberg mill is running near two-thirds of pre-incident rates, with near-full capacity targeted by end-2027. Earnings are due Tuesday, Oct 27, before the open.",
+  "source": "Freeport-McMoRan via Nasdaq",
+  "url": "https://www.nasdaq.com/press-release/freeport-provides-third-quarter-2026-operational-update-2026-10-02",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H7",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "GEV",
+  "category": "Earnings ahead",
+  "summary": "Reports Wednesday, Oct 28 before the open; analysts expect EPS of $4.03 on $12.3 billion of revenue. The stock bounced about 5% from a six-month low in its latest session.",
+  "source": "Schaeffer's Investment Research",
+  "url": "https://www.schaeffersresearch.com/content/analysis/2026/10/26/energy-stock-ge-vernova-eyes-this-weeks-earnings-call",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H8",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "VRT",
+  "category": "Earnings ahead",
+  "summary": "Reports Wednesday, Oct 28 before the open; consensus EPS is $1.82 against $1.24 a year ago.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H9",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "EQIX",
+  "category": "Earnings ahead",
+  "summary": "Reports Wednesday, Oct 28 after the close; consensus EPS is $9.28.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ },
+ {
+  "id": "H10",
+  "date": "2026-10-26",
+  "scope": "Holding",
+  "ticker": "DLR",
+  "category": "Earnings ahead",
+  "summary": "Reports Thursday, Oct 29 after the close; consensus EPS is $1.97 against $1.89 a year ago.",
+  "source": "StockTitan",
+  "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+  "refreshed": "2026-10-26T16:40:00-04:00"
+ }
+]

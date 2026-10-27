@@ -1,0 +1,8 @@
+id,name,category,value,valuationBasis,valuationDate,liquidity,source
+A1,Primary residence,Real estate,1250000,Appraisal,2026-03-15,Illiquid,Independent appraisal
+A2,Vacation home,Real estate,540000,Broker opinion of value,2026-06-30,Illiquid,Local broker estimate
+A3,Art collection (14 works),Art & collectibles,182000,Insurance appraisal,2025-11-20,Illiquid,Fine-art insurance schedule
+A4,Wine collection,Art & collectibles,24500,Auction comparables,2026-09-01,Semi-liquid,Collection manager
+A5,Jewelry and watches,Art & collectibles,38000,Insurance appraisal,2025-11-20,Semi-liquid,Insurance schedule
+A6,Vehicles (2),Vehicles,61000,Dealer valuation guide,2026-10-01,Semi-liquid,Valuation guide
+A7,Bank checking and savings,Cash,86400,Bank statement,2026-10-23,Liquid,Bank statement

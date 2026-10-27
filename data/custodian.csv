@@ -1,0 +1,20 @@
+custodian,ticker,shares,price,marketValue,asOf
+Custodian A · Brokerage ****4417,AVGO,40.0,345.0,13800.0,2026-10-23
+Custodian A · Brokerage ****4417,ASML,12.0,1010.0,12120.0,2026-10-23
+Custodian A · Brokerage ****4417,VRT,90.0,168.0,15120.0,2026-10-23
+Custodian A · Brokerage ****4417,ETN,30.0,372.0,11160.0,2026-10-23
+Custodian A · Brokerage ****4417,SCCO,35.0,128.0,4480.0,2026-10-23
+Custodian A · Brokerage ****4417,DLR,40.0,171.0,6840.0,2026-10-23
+Custodian A · Brokerage ****4417,MSFT,30.0,520.0,15600.0,2026-10-23
+Custodian A · Brokerage ****4417,GOOGL,50.0,255.0,12750.0,2026-10-23
+Custodian A · Brokerage ****4417,NVDA,60.0,182.0,10920.0,2026-10-23
+Custodian B · Bank custody ****0932,NVDA,60.0,182.0,10920.0,2026-10-23
+Custodian A · Brokerage ****4417,TSM,75.0,290.0,21750.0,2026-10-23
+Custodian A · Brokerage ****4417,GEV,15.0,610.0,9150.0,2026-10-23
+Custodian A · Brokerage ****4417,FCX,175.0,44.5,7787.5,2026-10-23
+Custodian A · Brokerage ****4417,EQIX,12.0,845.0,10140.0,2026-10-23
+Custodian B · Bank custody ****0932,VTI,60.0,330.0,19800.0,2026-10-23
+Custodian B · Bank custody ****0932,BND,180.0,74.2,13356.0,2026-10-23
+Custodian B · Bank custody ****0932,SGOV,150.0,100.5,15075.0,2026-10-23
+Custodian B · Bank custody ****0932,VXUS,120.0,71.8,8616.0,2026-10-23
+Custodian A · Brokerage ****4417,USD,1250.4,1.0,1250.4,2026-10-23

@@ -1,0 +1,43 @@
+dimension,group,benchWeight
+holding,NVDA,0.03906
+holding,AVGO,0.01172
+holding,TSM,0.01167
+holding,ASML,0.00389
+holding,VRT,0.00039
+holding,ETN,0.00185
+holding,GEV,0.00141
+holding,FCX,0.00054
+holding,SCCO,0.00016
+holding,EQIX,0.00078
+holding,DLR,0.00054
+holding,MSFT,0.03125
+holding,GOOGL,0.02734
+holding,VTI,0.0
+holding,VXUS,0.0
+holding,BND,0.0
+holding,SGOV,0.0
+theme,AI compute,0.06634
+theme,Cooling & power,0.00365
+theme,Copper,0.0007
+theme,Data centers,0.00132
+theme,Hyperscalers,0.05859
+theme,Ballast,0.15
+theme,Core,0.7194
+country,US,0.65
+country,Taiwan,0.01944
+country,Netherlands,0.01069
+country,Ireland,0.01264
+country,International,0.30722
+industry,Semiconductors & equipment,0.0935
+industry,Software,0.0765
+industry,Interactive media,0.0425
+industry,Electrical equipment,0.0102
+industry,Metals & mining,0.01275
+industry,Specialized REITs,0.0034
+industry,All other industries,0.61115
+industry,Bonds,0.1
+industry,T-bills,0.05
+assetClass,US equity,0.5
+assetClass,International equity,0.35
+assetClass,Fixed Income,0.1
+assetClass,Cash,0.05

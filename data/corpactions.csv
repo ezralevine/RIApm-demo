@@ -1,0 +1,12 @@
+ticker,event,exDate,payDate,amountPerShare,shares,estCash
+BND,Cash dividend,2026-11-02,2026-11-06,0.22,180,39.6
+SGOV,Cash dividend,2026-11-02,2026-11-06,0.36,150,54.0
+ETN,Cash dividend,2026-11-03,2026-11-21,1.04,30,31.2
+NVDA,Cash dividend,2026-11-05,2026-11-28,0.01,120,1.2
+SCCO,Cash dividend,2026-11-12,2026-11-26,0.7,35,24.5
+GEV,Annual meeting / proxy vote,2026-11-17,,0.0,18,0.0
+MSFT,Cash dividend,2026-11-19,2026-12-10,0.91,30,27.3
+AVGO,Cash dividend,2026-11-20,2026-12-31,0.65,40,26.0
+TSM,Cash dividend,2026-12-11,2027-01-08,0.84,80,67.2
+DLR,Cash dividend,2026-12-12,2027-01-15,1.22,40,48.8
+VXUS,Cash dividend,2026-12-21,2026-12-26,0.82,120,98.4

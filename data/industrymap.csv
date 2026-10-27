@@ -1,0 +1,30 @@
+ticker,industry,share
+NVDA,Semiconductors & equipment,1.0
+AVGO,Semiconductors & equipment,1.0
+TSM,Semiconductors & equipment,1.0
+ASML,Semiconductors & equipment,1.0
+VRT,Electrical equipment,1.0
+ETN,Electrical equipment,1.0
+GEV,Electrical equipment,1.0
+FCX,Metals & mining,1.0
+SCCO,Metals & mining,1.0
+EQIX,Specialized REITs,1.0
+DLR,Specialized REITs,1.0
+MSFT,Software,1.0
+GOOGL,Interactive media,1.0
+BND,Bonds,1.0
+SGOV,T-bills,1.0
+VTI,Semiconductors & equipment,0.11
+VTI,Software,0.09
+VTI,Interactive media,0.05
+VTI,Electrical equipment,0.012
+VTI,Metals & mining,0.015
+VTI,Specialized REITs,0.004
+VTI,All other industries,0.719
+VXUS,Semiconductors & equipment,0.11
+VXUS,Software,0.09
+VXUS,Interactive media,0.05
+VXUS,Electrical equipment,0.012
+VXUS,Metals & mining,0.015
+VXUS,Specialized REITs,0.004
+VXUS,All other industries,0.719

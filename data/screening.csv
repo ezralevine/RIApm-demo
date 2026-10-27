@@ -1,0 +1,10 @@
+ticker,category,share,basis
+VTI,Weapons,0.014,Fund look-through
+VTI,Controversial weapons,0.006,Fund look-through
+VTI,Tobacco,0.005,Fund look-through
+VTI,Thermal coal,0.001,Fund look-through
+VXUS,Weapons,0.011,Fund look-through
+VXUS,Controversial weapons,0.004,Fund look-through
+VXUS,Tobacco,0.009,Fund look-through
+VXUS,Thermal coal,0.006,Fund look-through
+BND,Weapons,0.003,Fund look-through

@@ -1,0 +1,8 @@
+id,name,type,kind,balance,rate,due,nextPayment,frequency
+L1,"Mortgage, primary residence",Mortgage,Debt,618000,0.0325,2051-04-01,3920,Monthly
+L2,"Mortgage, vacation home",Mortgage,Debt,304500,0.061,2054-07-01,2180,Monthly
+L3,Home equity line of credit,Credit line,Debt,40000,0.0775,,420,Monthly interest
+L4,Credit cards,Short-term,Debt,7800,0.0,2026-11-15,7800,Paid in full monthly
+L5,Estimated tax payment due Jan 15,Taxes,Expected,18500,0.0,2027-01-15,18500,Once
+L6,"Property taxes, both homes",Taxes,Expected,11200,0.0,2027-02-01,11200,Semi-annual
+L7,"Charitable pledge, 2 years remaining",Pledge,Expected,50000,0.0,2028-06-30,25000,Annual

@@ -1,0 +1,12 @@
+metric,portfolio,benchmark,unit
+Annualized volatility,0.18978,0.16366,pct
+Downside deviation,0.12438,0.11084,pct
+Sortino ratio,1.60481,0.84249,num
+1-day VaR (95%),-0.01835,-0.01617,pct
+1-day CVaR (95%),-0.02289,-0.01977,pct
+Worst day,-0.03101,-0.02651,pct
+Best day,0.03992,0.03233,pct
+Up days,0.52579,0.51786,pct
+Upside capture,1.12153,1.0,pct
+Downside capture,1.02858,1.0,pct
+"Vol, last 3 months",0.19856,0.17322,pct
